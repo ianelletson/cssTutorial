@@ -1,0 +1,50 @@
+@CHARSET "US-ASCII";
+
+body {
+     font-family: Verdana, Arial, sans-serif;
+     margin: 0;
+}
+
+#wrapper {
+	 background-color: #e8b9e8;
+	 color: #000066;
+}
+
+#leftcolumn {
+	    float: left;
+	    width: 100px;
+}
+
+#rightcolumn {
+	     margin-left: 100px;
+	     background-color: #ffffff;
+	     color: #000000;
+}
+
+#logo {
+      background-color: #eeeeee;
+      color: #cc66cc;
+      font-size: x-large;
+      border-bottom: 1px solid #000000;
+      padding: 10px;
+}
+
+.content {padding: 20px 20px 0 20px;}
+
+#floatright {
+	    margin: 10px;
+	    float: right;
+}
+
+.footer {
+	font-size: x-small;
+	text-align: center;
+	clear: right;
+	padding-bottom: 20px;
+}
+
+.navBar {
+	text-decoration: none;
+	margin: 15px;
+	display: block;
+}
