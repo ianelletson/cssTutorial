@@ -2,8 +2,11 @@
 
 body {
   padding-left: 11em;
-  color: purple;
-  background-color: #d8da3d }
+  color: #586e75;
+  background-color: #fdf6e3; }
+p {
+	font-family: Helvitica, sans-serif;
+	color: #657b83; }
 ul.navbar {
   list-style-type: none;
   padding: 0;
@@ -11,12 +14,17 @@ ul.navbar {
   position: absolute;
   top: 2em;
   left: 1em;
-  width: 9em }
+  width: 9em;
+  color: #268bd2 }
 ul.navbar li {
-  background: white;
+  background: #eee8d5;
   margin: 0.5em 0;
   padding: 0.3em;
-  border-right: 1em solid black }
+  border-right: 1em solid #93a1a1; }
 ul.navbar a {
   text-decoration: none }
+
+a {
+	color: #268bd2
+}
   

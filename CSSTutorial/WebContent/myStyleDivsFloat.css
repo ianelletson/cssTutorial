@@ -1,28 +1,28 @@
 @CHARSET "US-ASCII";
 
 #box1 {
-	width: 100%;
+	width: 75%;
 	height: 200px;
 	background-color: #ABC;
     margin: 10px 20px;
     padding: 10px;
-	float:left
+	
 }
 #box2 {
-	width: 300px;
-	height: 100px;
+	width: 25%;
+	height: 20%;
 	background-color: #007BAD;
 	border-style: solid;
-	border-color: black;
+	border-color: pink;
     border-width: 4px;
 	margin: 2em;
-	float:left
+	clear: both
 }
 #box3 {
-	width: 10em;
-	height: 5em;
+	width: 10%;
+	height: 5%;
 	background-color: red;
 	margin: 25px 50px 75px 100px;
-	float:left
+	float: right;
 }
 	
